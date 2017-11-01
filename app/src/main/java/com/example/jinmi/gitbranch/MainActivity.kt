@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
        // setContentView(R.layout.activity_main)
-        startActivity(Intent(this,NaviActivity::class.java))
+       // startActivity(Intent(this,NaviActivity::class.java))
+        startActivity(Intent(this,ScrollingActivity::class.java))
     }
 }
