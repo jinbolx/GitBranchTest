@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"main",Toast.LENGTH_SHORT).show()
         Log.i("","")
     }
+    fun secondInit(){
+        val list2=(5..20).toList()
+    }
 }
