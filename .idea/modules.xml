@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Android\git\GitTest\GitBranchTest.iml" filepath="C:\Android\git\GitTest\GitBranchTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GitTest.iml" filepath="$PROJECT_DIR$/GitTest.iml" />
-      <module fileurl="file://C:\Android\git\GitTestSecondBranch\GitBranchTest\GitTest.iml" filepath="C:\Android\git\GitTestSecondBranch\GitBranchTest\GitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitBranchTest.iml" filepath="$PROJECT_DIR$/GitBranchTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
